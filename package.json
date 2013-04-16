@@ -1,0 +1,19 @@
+{
+  "name": "express-status-guard",
+  "version": "0.0.0",
+  "description": "Guard callback errors by emitting a statusCode and don't bother any longer.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/srijs/express-status-guard"
+  },
+  "keywords": [
+    "express",
+    "guard",
+    "status",
+    "error"
+  ],
+  "author": "Sam Rijs",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+}
