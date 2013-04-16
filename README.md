@@ -3,7 +3,7 @@ Express Status Guard
 
 Inspirated by Haskells monad guards,
 this middleware frees you from the burden of repetitive error handling in your
-callbacks and let's you focus on your business logic.
+callbacks and lets you focus on your business logic.
 
 Just `app.use(guard())`.
 
